@@ -97,7 +97,7 @@ nav
 }
 .title::first-letter
 {
-    initial-letter: 1.25;
+    initial-letter: 1.75;
     border: 0.25vw solid #7ec8c5;
     padding: 0.3vw;
     color: #2a6f7d;
