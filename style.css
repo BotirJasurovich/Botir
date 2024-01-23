@@ -70,12 +70,69 @@ nav
 }
 .sign_up
 {
-    width: 10vw;
+    width: 15vw;
+    height: 5vw;
     color: #7ec8c5;
     background: #2a6f7d;
     border: solid 0.25vw #7ec8c5;
 }
+.sign_up:hover
+{
+    background: linear-gradient(#7ec8c5, #2a6f7d);
+    transition: 0.3s ease-in-out all;
+    border-bottom: #2a6f7d;
+    color: #122e49;
 }
+.opening_title
+{
+    font-size: 5vw;
+    text-transform: capitalize;
+    color: #2e93be;
+    font-family: 'argel';
+    text-shadow: hsl(209, 60%, 18%) 0.5vw 0.5vw 1vw;
+}
+.opening_content
+{
+    font-size: 2vw;
+    color: #ced8e3;
+    font-family: 'first';
+}
+.menu_title
+{
+    font-size: 3vw;
+    text-transform: capitalize;
+    font-family: 'lord';
+}
+.menu_items
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.menu_item
+{
+    width: 20%;
+    border: 0.2vw solid #122e49;
+}
+.item_title
+{
+    font-size: 3vw;
+    font-family: 'argel';
+}
+.content_text
+{
+    font-size: 1.5vw;
+    font-family: 'monsieur';
+}
+}
+
+
+
+
+
+
+
+
 @media (width > 700px){
     header
 {
