@@ -1,32 +1,32 @@
 @font-face{
     font-family: 'first';
-    src: url(/fonts/first_font.ttf);
+    src: url('./fonts/first_font.ttf');
 }
 @font-face{
     font-family: 'scriptin';
-    src: url(/fonts/SCRIPTIN.ttf);
+    src: url('./fonts/SCRIPTIN.ttf');
 }
 @font-face{
     font-family: 'lord';
-    src: url(/fonts/LittleLordFontleroyNF.ttf);
+    src: url('./fonts/LittleLordFontleroyNF.ttf');
 }
 @font-face{
     font-family: 'beyond';
-    src: url(/fonts/Beyond\ Wonderland.ttf);
+    src: url('./fonts/Beyond\ Wonderland.ttf');
 }
 @font-face{
     font-family: 'argel';
-    src: url(/fonts/Billy\ Argel\ Font___.ttf);
+    src: url('./fonts/Billy\ Argel\ Font___.ttf');
 }
 @font-face{
     font-family: 'monsieur';
-    src: url(/fonts/MonsieurLaDoulaise-Regular.ttf);
+    src: url('./fonts/MonsieurLaDoulaise-Regular.ttf');
 }
 @font-face{
     font-family: 'teko';
-    src: url(/fonts/Teko-VariableFont_wght.ttf);
+    src: url('./fonts/Teko-VariableFont_wght.ttf');
 }
 @font-face{
     font-family: 'rothenburg';
-    src: url(/fonts/RothenburgDecorative.ttf);
+    src: url('./fonts/RothenburgDecorative.ttf');
 }
